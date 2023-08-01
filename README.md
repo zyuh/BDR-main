@@ -27,5 +27,5 @@ If you find this repository useful to your research, please consider citing:
 
 ## Acknowledgement
 
-This repository is built based on [FACIL]([https://github.com/HobbitLong/RepDistiller](https://github.com/mmasana/FACIL)). We thank the authors for releasing their amazing codes.
+This repository is built based on [FACIL](https://github.com/mmasana/FACIL). We thank the authors for releasing their amazing codes.
 
