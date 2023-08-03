@@ -5,7 +5,7 @@ import numpy as np
 from argparse import ArgumentParser
 
 from loggers.exp_logger import ExperimentLogger
-from datasets.exemplars_dataset import ExemplarsDataset
+from dataset.exemplars_dataset import ExemplarsDataset
 
 from .utils import reduce_tensor_mean, reduce_tensor_sum
 
