@@ -21,7 +21,7 @@ You may download the dataset using the following links like [this](https://githu
 - [Download from Google Drive](https://drive.google.com/file/d/1n5Xg7Iye_wkzVKc0MTBao5adhYSUlMCL/view?usp=sharing)
 
 #### ImageNet
-ImageNet is only allowed to be downloaded by researchers for non-commercial research and educational purposes. See the terms of ImageNet [here](https://image-net.org/download.php).
+See the terms of ImageNet [here](https://image-net.org/download.php).
 
 
 ## Running Experiments
