@@ -2,7 +2,7 @@ import torch
 import numpy as np
 
 from .incremental_learning import Inc_Learning_Appr
-from datasets.exemplars_dataset import ExemplarsDataset
+from dataset.exemplars_dataset import ExemplarsDataset
 
 import torch.nn.functional as F
 from argparse import ArgumentParser
