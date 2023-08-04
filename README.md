@@ -42,13 +42,11 @@ CUDA_VISIBLE_DEVICES=0 python main_incremental.py --exp-name nc_first_50_ntask_6
 
 If you find this repository useful to your research, please consider citing:
 ~~~
-@misc{zhou2023balanced,
-      title={Balanced Destruction-Reconstruction Dynamics for Memory-replay Class Incremental Learning}, 
-      author={Yuhang Zhou and Jiangchao Yao and Feng Hong and Ya Zhang and Yanfeng Wang},
-      year={2023},
-      eprint={2308.01698},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{zhou2021uncertainty,
+  title={Uncertainty-aware Incremental Learning for Multi-organ Segmentation},
+  author={Zhou, Yuhang and Zhang, Xiaoman and Feng, Shixiang and Zhang, Ya and others},
+  journal={arXiv preprint arXiv:2103.05227},
+  year={2021}
 }
 ~~~
 
